@@ -1,0 +1,1 @@
+# Transmitere-de-date-intre-componente
